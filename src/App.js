@@ -3,8 +3,8 @@ import Editor from './components/editor'
 
 function App() {
 
-  const [html,sethtml]=useState('');
-  const [css,setcss]=useState('');
+  const [html,sethtml]=useState('<h1>Code your own way</h1>');
+  const [css,setcss]=useState('h1{color:grey;text-align:center;}body{background-color:hsl(225,6%,25%);}');
   const [js,setjs]=useState('');
   const [srcDoc,setDoc]=useState('');
 
@@ -59,6 +59,7 @@ function App() {
         <iframe
           srcDoc={srcDoc}
           title="output"
+          frameBorder="0"
           sandbox="allow-scripts"
           height="100%"
           width="100%"
