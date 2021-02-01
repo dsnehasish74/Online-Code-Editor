@@ -1,6 +1,6 @@
 ## Online Code Editior
 
-[Online Code Editor](https://socialify.git.ci/dsnehasish74/Online-Code-Editor/image?language=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark)
+![Online Code Editor](https://socialify.git.ci/dsnehasish74/Online-Code-Editor/image?language=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark)
 
 ## Setup
 ```
